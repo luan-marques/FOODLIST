@@ -25,8 +25,8 @@ header {
 
 .logo img {
     margin-top: 7px;
-    height: 100px;
-    width: 120px;
+    height: 90px;
+    width: 105px;
     transition: 0.3s;
 }
 
@@ -74,7 +74,7 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 200px;
+    padding: 0 170px;
     gap: 50px;
 }
 
@@ -109,7 +109,7 @@ main {
 .card-curiosities-2,
 .card-curiosities-3 {
     height: 400px;
-    width: 550px;
+    width: 500px;
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 10px 4px 10px rgba(0,0,0,0.1);
@@ -138,7 +138,7 @@ main {
 }
 
 .banner {
-    height: 500px;
+    height: 450px;
     width: 100%;
     margin-bottom: 100px;
 }
@@ -154,7 +154,7 @@ main {
 
 .nation-foods {
     border-top: 1px solid rgb(206, 206, 206);
-    padding-top: 125px;
+    padding-top: 100px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -162,7 +162,7 @@ main {
     text-align: center;
     width: 1300px;
     gap: 100px;
-    margin: 0 20% 200px;
+    margin: 0 15% 200px;
 }
 
 .tittle-curiosities {
@@ -218,7 +218,7 @@ main {
     justify-content: space-between;
     align-items: center;
     gap: 40px;
-    padding: 0 240px;
+    padding: 0 170px;
 }
 
 .categories-link-1 a,
@@ -321,7 +321,7 @@ main {
 }
 
 .descriptions {
-    width: 40%;
+    width: 50%;
     /* border: 1px solid black; */
     text-align: left;
     padding: 11% 0 0 30px;
