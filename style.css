@@ -311,7 +311,7 @@ main {
 .france-food {
     width: 100%;
     display: flex;
-    margin: 0 200px 100px;
+    margin: 0 0 100px;
 }
 .food-img {
     background-image: url(./img/Ratatouille\ em\ espiral\ com\ ervas\ frescas.png);
